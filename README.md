@@ -12,3 +12,8 @@ documents by simplifying complex legal language and flagging risky clauses.
 
 ## Status
 🚧 Under active development
+
+## Project Status
+
+LexiEase is a collaborative project.
+We are continuously improving its features and user experience.
