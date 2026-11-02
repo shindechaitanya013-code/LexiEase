@@ -23,3 +23,8 @@ We are continuously improving its features and user experience.
 - Improve user interface
 - Add new features
 - Improve application performance
+
+## Contributors
+
+- Chaitanya Shinde
+- Prerit Gupta
