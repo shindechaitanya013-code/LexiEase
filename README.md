@@ -17,3 +17,9 @@ documents by simplifying complex legal language and flagging risky clauses.
 
 LexiEase is a collaborative project.
 We are continuously improving its features and user experience.
+
+## Future Improvements
+
+- Improve user interface
+- Add new features
+- Improve application performance
